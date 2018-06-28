@@ -1,0 +1,5 @@
+c:\users\johnsonh\documents\visual studio 2015\Projects\BookPriceCalculator\BookPriceCalculator\bin\Debug\BookPriceCalculator.dll
+c:\users\johnsonh\documents\visual studio 2015\Projects\BookPriceCalculator\BookPriceCalculator\bin\Debug\BookPriceCalculator.pdb
+c:\users\johnsonh\documents\visual studio 2015\Projects\BookPriceCalculator\BookPriceCalculator\obj\Debug\BookPriceCalculator.csprojResolveAssemblyReference.cache
+c:\users\johnsonh\documents\visual studio 2015\Projects\BookPriceCalculator\BookPriceCalculator\obj\Debug\BookPriceCalculator.dll
+c:\users\johnsonh\documents\visual studio 2015\Projects\BookPriceCalculator\BookPriceCalculator\obj\Debug\BookPriceCalculator.pdb
