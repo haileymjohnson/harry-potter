@@ -1,7 +1,0 @@
-c:\users\johnsonh\documents\visual studio 2015\Projects\BookPriceCalculator\BookPriceCalculatorTests\obj\Debug\BookPriceCalculatorTests.csprojResolveAssemblyReference.cache
-C:\Users\johnsonh\documents\visual studio 2015\Projects\BookPriceCalculator\BookPriceCalculatorTests\bin\Debug\BookPriceCalculatorTests.dll
-C:\Users\johnsonh\documents\visual studio 2015\Projects\BookPriceCalculator\BookPriceCalculatorTests\bin\Debug\BookPriceCalculatorTests.pdb
-C:\Users\johnsonh\documents\visual studio 2015\Projects\BookPriceCalculator\BookPriceCalculatorTests\bin\Debug\Calculator.dll
-C:\Users\johnsonh\documents\visual studio 2015\Projects\BookPriceCalculator\BookPriceCalculatorTests\bin\Debug\Calculator.pdb
-C:\Users\johnsonh\documents\visual studio 2015\Projects\BookPriceCalculator\BookPriceCalculatorTests\obj\Debug\BookPriceCalculatorTests.dll
-C:\Users\johnsonh\documents\visual studio 2015\Projects\BookPriceCalculator\BookPriceCalculatorTests\obj\Debug\BookPriceCalculatorTests.pdb
